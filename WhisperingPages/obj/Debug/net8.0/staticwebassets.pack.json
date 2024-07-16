@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WhisperingPages.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WhisperingPages.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\20240715140407789.jpg",
+      "PackagePath": "staticwebassets\\books\\20240715140407789.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\20240716110613434.jpg",
+      "PackagePath": "staticwebassets\\books\\20240716110613434.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\atomic_habits.jpg",
+      "PackagePath": "staticwebassets\\books\\atomic_habits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\becoming.jpg",
+      "PackagePath": "staticwebassets\\books\\becoming.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\educated.jpg",
+      "PackagePath": "staticwebassets\\books\\educated.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\good_to_great.jpg",
+      "PackagePath": "staticwebassets\\books\\good_to_great.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\how_children_succeed.jpg",
+      "PackagePath": "staticwebassets\\books\\how_children_succeed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\into_the_wild.jpg",
+      "PackagePath": "staticwebassets\\books\\into_the_wild.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\lean_in.jpg",
+      "PackagePath": "staticwebassets\\books\\lean_in.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\pride_and_prejudice.jpg",
+      "PackagePath": "staticwebassets\\books\\pride_and_prejudice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\rich_dad_poor_dad.jpg",
+      "PackagePath": "staticwebassets\\books\\rich_dad_poor_dad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\the_7_habits_of_highly_effective_people.jpg",
+      "PackagePath": "staticwebassets\\books\\the_7_habits_of_highly_effective_people.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\the_glass_castle.jpg",
+      "PackagePath": "staticwebassets\\books\\the_glass_castle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\the_hobbit.jpg",
+      "PackagePath": "staticwebassets\\books\\the_hobbit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\the_lean_startup.jpg",
+      "PackagePath": "staticwebassets\\books\\the_lean_startup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\the_moment_of_lift.jpg",
+      "PackagePath": "staticwebassets\\books\\the_moment_of_lift.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\the_notebook.jpg",
+      "PackagePath": "staticwebassets\\books\\the_notebook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\the_power_of_now.jpg",
+      "PackagePath": "staticwebassets\\books\\the_power_of_now.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\the_smartest_kids_in_the_world.jpg",
+      "PackagePath": "staticwebassets\\books\\the_smartest_kids_in_the_world.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\the_total_money_makeover.jpg",
+      "PackagePath": "staticwebassets\\books\\the_total_money_makeover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\the_untethered_soul.jpg",
+      "PackagePath": "staticwebassets\\books\\the_untethered_soul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\books\\zero_to_one.jpg",
+      "PackagePath": "staticwebassets\\books\\zero_to_one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Boot Camp\\source\\repos\\WhisperingPages\\WhisperingPages\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WhisperingPages.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WhisperingPages.props",
+      "PackagePath": "build\\WhisperingPages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WhisperingPages.props",
+      "PackagePath": "buildMultiTargeting\\WhisperingPages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WhisperingPages.props",
+      "PackagePath": "buildTransitive\\WhisperingPages.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,165 @@
+﻿@model List<Book>
+@{
+}
+
+<style>
+    .web-title {
+        color: #fbf9f8;
+    }
+    .btn-main {
+        background-color: #dcb09a;
+        border: none;
+        color: #0b0807;
+    }
+
+    .btn-main:hover {
+        background-color: #d68a63;
+        color: #fbf9f8;
+    }
+
+    .btn-primaryColor {
+        background-color: #b1704f;
+        color: #f5fafb;
+        border: 1px solid #b1704f;
+    }
+
+    .btn-primaryColor:hover {
+        background-color: #d68a63;
+        color: #0b1515;
+        border: 1px solid #d68a63;
+    }
+
+    .btn-secondaryColor {
+        color: #d66363;
+        border: 1px solid #d66363;
+    }
+
+    .btn-secondaryColor:hover {
+        color: #f5fafb;
+        background-color: #d66363;
+        border: 1px solid #d66363;
+    }
+
+    .card {
+        max-width: 300px;
+        min-width: 300px;
+    }
+
+    body {
+        background-color: #b1704f;
+    }
+
+    .bg-color {
+        background-color: #fff;
+    }
+
+    .font-title {
+        font-size: 1.70rem;
+        color: #0b1515;
+    }
+
+    .font-author {
+        font-size: 1rem;
+        color: #0b1515;
+        font-weight: 600;
+        opacity: 70%;
+    }
+
+    .font-genre {
+        font-size: 0.80rem;
+        color: #0b1515;
+        opacity: 80%;
+        background-color: #dcb09a;
+        max-width: 120px;
+    }
+
+    .font-price {
+        color: #5ab9ba;
+        font-weight: 600;
+        font-size: 1.5rem;
+    }
+
+    .font-description {
+        font-size: 0.90rem;
+        color: #0b1515;
+        opacity: 80%;
+        min-height: 80px;
+        max-height: 90px;
+    }
+
+    .btn-text {
+        font-size: 1rem;
+        font-weight: 400;
+    }
+
+    .btn-new-book {
+        max-width: 350px;
+    }
+
+</style>
+
+<h2 class="text-center my-4 web-title">WhisperingPages</h2>
+
+<div class="text-center">
+    <div class="">
+        <a class="btn btn-new-book w-75 py-3 my-2 btn-main" asp-controller="Books" asp-action="Create">Add New Book</a>
+    </div>
+</div>
+
+<div class="d-flex row justify-content-center flex-wrap mh-100">
+    @foreach (var book in Model)
+    {
+        <div class="card m-2 p-4 d-flex justify-content-between bg-color col-12 col-sm-6 col-md-3 col-lg-2">
+            <p class="p-1 font-genre text-center border-0 rounded">@book.Genre</p>
+            <div class="text-center w-100">
+                <img src="/books/@book.ImageFileName" width="150" height="236"/>
+            </div>
+
+            <div class="stretch">
+                <h3 class="d-flex text-left mt-2 font-title">@book.Title</h3>
+                <p class="my-0 font-author">@book.Author</p>
+                <p class="my-0 font-price">$@book.Price</p>
+                <p class="my-0 font-description">@book.Description</p>
+            </div>
+
+            <div class="d-flex justify-content-center gap-4 pt-4">
+                <a class="btn btn-text w-50 btn-primaryColor py-2 text-lg" asp-controller="Books" asp-action="Edit" asp-route-id="@book.Id">Update</a>
+                <a class="btn btn-text w-50 btn-secondaryColor py-2 text-lg" asp-controller="Books" asp-action="Delete" asp-route-id="@book.Id" onclick="return confirm('Are you sure you want to remove this book?')">Delete</a>
+            </div>
+
+        </div>
+    }
+</div>
+
+@* <table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Author</th>
+            <th>Genre</th>
+            <th>Price</th>
+            <th>Book Cover</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.Description</td>
+                <td>@book.Author</td>
+                <td>@book.Genre</td>
+                <td>$@book.Price</td>
+                <td><img src="/books/@book.ImageFileName" width="100" /></td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="Books" asp-action="Edit" asp-route-id="@book.Id">Edit</a>
+                    <a class="btn btn-danger btn-sm" asp-controller="Books" asp-action="Delete" asp-route-id="@book.Id" onclick="return confirm('Are you sure you want to remove this book?')">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table> *@

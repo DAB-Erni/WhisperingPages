@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhisperingPages", "WhisperingPages\WhisperingPages.csproj", "{C5E254B4-BA88-4619-87B5-78A3251F60CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5E254B4-BA88-4619-87B5-78A3251F60CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E254B4-BA88-4619-87B5-78A3251F60CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E254B4-BA88-4619-87B5-78A3251F60CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E254B4-BA88-4619-87B5-78A3251F60CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A22184-D593-4CF8-B189-A34ACDBFF3AF}
+	EndGlobalSection
+EndGlobal
